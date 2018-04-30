@@ -1,0 +1,9 @@
+{
+  "name": "headroom",
+  "version": "1.0.0",
+  "description": "Another hacker news pwa",
+  "main": "index.js",
+  "author": "menor <josemenor@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
